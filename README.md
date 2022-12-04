@@ -1,49 +1,49 @@
-# Asg1
+Your Project's Name
+My projects name is Books for all. and its a online ebook reading/downloading app which can be used by readers.
 
-<h1>Books4All</h1>
-<p></p>
+Design Process
 
-<h2>Design Process</h2>
-<p>Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+As a user , I want to able to read books easily anytime i want without having to trouble myself or spend money. so i created a website where everyone can read books where ever they want and in any device.
+The design principles this was built on was simplicity and a minimalistit style.
+LInk to wireframe:https://drive.google.com/file/d/1MCnyPZm6rv6y17GrycXJt0vsGWOxLQ7_/view?usp=sharing
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.</p>
-
-<h2>Features</h2>
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+Features
+search function where users can search for books or authors.
+users can create a read/wishlist with books
+users can write reviews and view reviews
+users can download books
+users can have a account in the website
+users can view their downloads
+users can contact us
+Users can download fetured books
+users can see new arrivals of the year
 
 Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
+Feature 1 - Users can use search function where users can search for books or authors.
+Feature 2 - Users can view reviews that other people have given so that they can decide wheather to download the book or not.
+Feature 3 - Users can view the books that they downloaded so they can know what books they already have in their devices
+Feature 4 - Users can contact usto provide suggestions or feedback to the developers
+Feature 5 - Users can see new arrivals of the year and the rating which they use to decide if the book is worth enough to read
+Feature 6 - Users can view featured books which are the popular books.
+
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+Features Left to Implement:
+Feature 1 - users can create a read/wishlist with books as currently the icons there dont do much.
+Feature 2 - users will be able to write reviews instead of just viewing them
+Feature 3 - users can download books as now if they click the download button nothing happens as there is not file store in there
+Feature 4 - users can have a account in the website .now i have wriitten code but it is not fully working. once its all fixed up users can create and log in to their accounts.
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+Technologies Used:
+I used Jss,cssand html for this assignment
 
 Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+the contact form will help us receive feedback
 
 Credits
+
 Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from 
+The content used like icons were retrieved from "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
+
 Acknowledgements
-I received inspiration for this project from the goodreads app.
+I received inspiration for this project from good reads website
